@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=socket
+comment1.target=java.net.DatagramPacket\ receivePacket(java.net.DatagramSocket)
+comment2.params=packetReceive
+comment2.target=int\ extractInt(java.net.DatagramPacket)
+comment3.params=packetReceive
+comment3.target=java.net.InetAddress\ getReturnAddress(java.net.DatagramPacket)
+comment4.params=packetReceive
+comment4.target=int\ getReturnPort(java.net.DatagramPacket)
+comment5.params=num
+comment5.target=int\ alterNum(int)
+comment6.params=num\ address\ port\ socket
+comment6.target=void\ sendPacket(int,\ java.net.InetAddress,\ int,\ java.net.DatagramSocket)
+comment7.params=
+comment7.target=void\ run()
+numComments=8
